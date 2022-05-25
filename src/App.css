@@ -1,0 +1,8 @@
+.App{
+  text-align: center;
+  background-color: azure;
+}
+h1{
+  background-color: blue;
+  display: inline-block;
+}
